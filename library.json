@@ -1,6 +1,6 @@
 {
     "name": "htcw_esp_lcd_touch_gt911",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "description": "The gt911 touch component from the espressif registry packaged for PIO",
     "keywords": ["touch","input"],
     "authors": {
@@ -16,6 +16,6 @@
         "url": "https://github.com/codewitch-honey-crisis/htcw_esp_lcd_touch_gt911.git"
     },
     "dependencies": {
-        "codewitch-honey-crisis/htcw_esp_lcd_touch": "^0.1.0"
+        "codewitch-honey-crisis/htcw_esp_lcd_touch": "^0.1.1"
     }
 }
