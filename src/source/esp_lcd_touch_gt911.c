@@ -30,6 +30,10 @@ static const char *TAG = "GT911";
 #ifndef CONFIG_ESP_GT911_TOUCH_MAX_BUTTONS
 #define CONFIG_ESP_GT911_TOUCH_MAX_BUTTONS         (4)
 #endif
+#ifndef ESP_GT911_TOUCH_MAX_BUTTONS
+#define ESP_GT911_TOUCH_MAX_BUTTONS         (4)
+#endif
+
 #ifndef CONFIG_ESP_LCD_TOUCH_MAX_POINTS
 #define CONFIG_ESP_LCD_TOUCH_MAX_POINTS (5)
 #endif
