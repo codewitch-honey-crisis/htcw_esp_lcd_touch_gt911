@@ -1,6 +1,6 @@
 {
     "name": "htcw_esp_lcd_touch_gt911",
-    "version": "0.1.3",
+    "version": "0.1.4",
     "description": "The gt911 touch component from the espressif registry packaged for PIO",
     "keywords": ["touch","input"],
     "authors": {
